@@ -1,4 +1,5 @@
-# dNAM - digital Nucleic Acid Memory
+# A New Approach to Nucleic Acid Memory
+
 This repository contains the error correction code and preprocessing code for dNAM
 
 ## Localization preprocessing analysis
