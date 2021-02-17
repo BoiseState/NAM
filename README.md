@@ -1,6 +1,6 @@
 # A New Approach to Nucleic Acid Memory
-
-This repository contains the error correction code and preprocessing code for dNAM
+[![DOI](https://zenodo.org/badge/272903590.svg)](https://zenodo.org/badge/latestdoi/272903590)  
+This repository contains the error correction code and preprocessing code for Nucleic Acid Memory(NAM)
 
 ## Localization preprocessing analysis
 
