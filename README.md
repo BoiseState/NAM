@@ -1,5 +1,5 @@
-# A New Approach to Nucleic Acid Memory
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4546134.svg)](https://doi.org/10.5281/zenodo.4546134)   
+# An alternative approach to nucleic acid memory
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4672665.svg)](https://doi.org/10.5281/zenodo.4672665)   
 This repository contains the error correction code and preprocessing code for Nucleic Acid Memory(NAM)
 
 ## Localization preprocessing analysis
